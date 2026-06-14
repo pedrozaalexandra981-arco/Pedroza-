@@ -1,0 +1,1 @@
+Las comunidades e iniciativas ciudadanas pueden beneficiarse mucho al construir sus propias herramientas tecnológicas utilizando tecnologías abiertas como Node.js. Esto les permite crear 
